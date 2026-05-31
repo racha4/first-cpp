@@ -1,3 +1,4 @@
+//arithmetric series formula
 #include <iostream>
 
 using namespace std;
