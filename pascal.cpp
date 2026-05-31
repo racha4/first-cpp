@@ -1,3 +1,5 @@
+//"pascal's triangle"
+//"standard console pattern designs in c++focusing on manual spacing alignment and output formatting without loops"
 #include <iostream>
 
 using namespace std;
